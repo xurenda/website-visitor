@@ -5,7 +5,15 @@
 		},
     {
       "path" : "pages/web/web",
-      "style" : {}
+      "style" : {
+        "app-plus": {
+          "titleNView": {
+            "buttons": [
+              { "type": "home" }
+            ]
+          }
+        }
+      }
     }
     ],
 	"globalStyle": {
